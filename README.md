@@ -29,17 +29,18 @@ A Python script to automate adding cheat codes to OpenEMU games. This script use
 
 ```
 .
-├── cheat_manager.py        # Main script
-├── requirements.txt        # Python dependencies
-├── config.json            # Saved mouse positions
-└── game_cheats/           # Directory containing game-specific cheats
-    └── zelda_majoras_mask/  # Example game directory
-        ├── all_cheats.csv        # Complete cheat collection
-        ├── essential_cheats.csv  # Most useful cheats
-        ├── basic_cheats.csv      # Simple cheats
-        ├── equipment_cheats.csv  # Equipment-related cheats
-        ├── mask_cheats.csv       # Mask-related cheats
-        └── dungeon_cheats.csv    # Dungeon-specific cheats
+├── cheat_manager.py              # This is the main script
+├── requirements.txt              # All listed Python dependencies you install via Pip
+├── config.json                   # Saved mouse positions - recalbrate if not working
+└── game_cheats/                  # Directory containing game-specific cheats
+      └── sample_game_folder/     # Example game directory
+      └── zelda_majoras_mask/     # My majoras maske game directory as an example
+        ├── all_cheats.csv        # Complete cheat collection that didn't brick the game 
+        ├── essential_cheats.csv  # Useful cheats
+        ├── basic_cheats.csv      # Good starter cheats
+        ├── equipment_cheats.csv  # Equipment cheats
+        ├── mask_cheats.csv       # Mask cheats
+        └── dungeon_cheats.csv    # Dungeon cheats
 ```
 
 ## CSV File Format

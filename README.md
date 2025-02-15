@@ -142,4 +142,4 @@ Max Money,EFGH-5678
 ## Buy me a (digital)coffee
 
 - [Stripe](https://donate.stripe.com/3cs00LadmfgB6Dm9AB)
-- [Bitcoin] (https://www.blockchain.com/btc/address/3PUnci5ZZ9czF8TM2RZCgcodoiuqwhrURn)
+- [Bitcoin](https://www.blockchain.com/btc/address/3PUnci5ZZ9czF8TM2RZCgcodoiuqwhrURn)
